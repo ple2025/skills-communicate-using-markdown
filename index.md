@@ -15,3 +15,6 @@
 ``` Java
 String message = "Hello world!";
 ```
+- [ ] Sleep
+- [ ] Code
+- [ ] Eat
